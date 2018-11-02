@@ -475,16 +475,6 @@ the letter. Thus, A-3 is the 3<sup>rd</sup> of 4 members in group A.
 
 **Findings**
 
-Affect plays three important roles in the process of navigating ideas:
-(1) Establishing shaky ground (2) creating generative momentum and (3)
-creating space for questioning. The data structure is summarized in
-Figure 1.
-
-**Figure 1. Data Structure**
-
-1<sup>st</sup> Order Concepts 2<sup>nd</sup> Order Concepts Aggregate
-Dimensions
-
 **Establishing shaky ground**
 
 **Highlight ambiguity.** At the outset, groups were always emphatic that
@@ -504,7 +494,7 @@ hopelessness. For example, the following exchange highlights how a group
 creating a show around the themes of immigration is plagued by
 uncertainties.
 
-> K-1; 20: I don’t know if \[what we’re doing\] is too… vain? I just
+> K-1; 20: I don’t know if what we’re doing is too… vain? I just
 > don’t know. I don’t want the audience to be switched off… How?
 > \[groans and puts his head in his hands\]
 > 
