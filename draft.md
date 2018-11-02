@@ -627,7 +627,7 @@ pause as group members did not feel the same way about ideas or were not
 equally enthusiastic. For instance, the following episode illustrates
 how when group members have different subjective responses to ideas it
 gives rise to negative affect which creates tension and pause in the
-process.
+process. This is a test. 
 
 Para 1. Pause
 Para 2. Not feeling the same way
